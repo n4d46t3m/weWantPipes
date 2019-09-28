@@ -8,4 +8,5 @@ These pipes can be easily *translated* from **Typescript** to **Javascript**.
 
 - Angular project skeleton with a little demo
 - Add more pipes !!!
+- Improve metallica and vocalsToNumbers in str2Anything.pipe
 - Translate pipes from Typescript to Angular

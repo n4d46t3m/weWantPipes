@@ -8,10 +8,10 @@ A collection of methods that work with dates
 */
 
 @Pipe({
-    name: 'toFromattedStr',
+    name: 'dateToAnything',
     pure: false
 })
-export class Date2AnythingPipe implements PipeTransform {
+export class Date2AnythingPipe { /* implements PipeTransform */
 
     // constructor() { }
 
